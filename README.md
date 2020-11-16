@@ -5,7 +5,7 @@ Este repositorio reune el código de tres tutoriales del blog Adictos Al Trabajo
 - Crear con Terraform una Lambda llamada por S3
 Por lo tanto, el código se divide en tres.
 
-## Crear un servidor SFTP con EC2 y S3 usando Terraform
+## Crear un servidor SFTP con EC2 y S3 usando Terraform
 [TUTORIAL]() Los ficheros pertenecientes a este tutorial son:
 - `setup.tf`
 - `variables.tf`
