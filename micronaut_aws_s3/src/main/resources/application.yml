@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: micronautS3
+aws:
+  s3:
+    accessKey: 'AKIAJZZEEJULANFULEOQ'
+    secretKey: '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'
+    region: 'eu-west-2'
+    bucket: 'ftp-storage-bucket'
