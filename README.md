@@ -13,7 +13,7 @@ Por lo tanto, el código se divide en tres.
 - `EC2_config.tf`
 - Los archivos dentro de `init_scripts`
 
-## Creando una API con Micronaut: Conexión con AWS S3
+## Crear con Terraform una Lambda llamada por S3
 [TUTORIAL](https://www.adictosaltrabajo.com/2020/11/16/crear-con-terraform-una-lambda-llamada-por-s3) Los ficheros pertenecientes a este tutorial son:
 - `setup.tf`
 - `variables.tf`
@@ -21,6 +21,6 @@ Por lo tanto, el código se divide en tres.
 - `Lambda_config.tf`
 - El proyecto `s3-java` entero
 
-## Crear con Terraform una Lambda llamada por S3
+## Creando una API con Micronaut: Conexión con AWS S3
 [TUTORIAL](https://www.adictosaltrabajo.com/2020/11/16/creando-una-api-con-micronaut-conexion-con-aws-s3) Los ficheros pertenecientes a este tutorial son:
 - El proyecto `micronaut_aws_s3` entero
